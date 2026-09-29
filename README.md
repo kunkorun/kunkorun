@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kunkorun
 
-Data Science learner building practical Machine Learning projects with Python, pandas, scikit-learn and CatBoost.
+I'm currently learning Data Science by building practical Machine Learning projects with Python, pandas, scikit-learn and CatBoost.
 
-Instead of just chasing leaderboard scores, I focus on understanding the data, formulating hypotheses, and building reproducible workflows.
+I believe the best way to learn is by doing, so most of my GitHub is built around Kaggle projects where I try to understand the data, come up with hypotheses, test different approaches, and learn from the results.
 
 ---
 
@@ -30,38 +30,48 @@ Instead of just chasing leaderboard scores, I focus on understanding the data, f
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 My Projects
 
-Here are some of the end-to-end Machine Learning projects I have built and documented:
+Here are the projects I have completed so far:
 
-* 🚢 **[Titanic — Survival Prediction]** — Supervised learning workflow with feature engineering, model comparison, validation, and Kaggle submission. **Kaggle Score: 0.77990**
+* 🚢 **[Titanic — Survival Prediction]** — My first end-to-end classification project. I worked on EDA, feature engineering, model comparison and validation. **Kaggle Score: 0.77990**
 
-* 🏠 **[House Prices — Advanced Regression]** — Regression pipeline featuring EDA, target transformation, feature engineering, and cross-validation. **Kaggle RMSLE: 0.12444**
+* 🏠 **[House Prices — Advanced Regression]** — Regression project with EDA, feature engineering, target transformation and cross-validation. **Kaggle RMSLE: 0.12444**
 
-* 🚀 **[Spaceship Titanic — CatBoost Solution]** — Binary classification with context-aware missing-value imputation, data type debugging, feature engineering, and CatBoost. **Kaggle Score: 0.80032**
+* 🚀 **[Spaceship Titanic — CatBoost Solution]** — This project helped me start thinking more about the relationships between features when dealing with missing values. I also used CatBoost for the first time and worked on debugging data types and the preprocessing pipeline. **Kaggle Score: 0.80032**
 
-* 🔢 **[Digit Recognizer]** — Multiclass image classification using Random Forest, cross-validation, hyperparameter tuning, confusion matrices, and visual error analysis. **Kaggle Score: 0.96550**
-
----
-
-### 🎯 Current Focus & ML Philosophy
-
-I am currently focusing on improving my ability to:
-
-* Formulate data-driven hypotheses before changing the model
-* Build leakage-free and reproducible validation pipelines
-* Compare models through controlled experiments rather than blind tuning
-* Analyze model errors to understand failure patterns
-* Engineer features based on data and domain logic
-* Debug both code and machine learning pipelines
-* Document experiments and build reproducible projects with Git and GitHub
-
-All four projects are completed and documented. My next goal is to broaden the types of problems I solve and gradually move beyond standard tabular datasets.
+* 🔢 **[Digit Recognizer]** — My first project working with image data. I used Random Forest, cross-validation, hyperparameter tuning, confusion matrices and visual error analysis. **Kaggle Score: 0.96550**
 
 ---
 
-### 📫 Let's Connect
+### 🎯 What I'm learning now
 
-Feel free to explore my repositories and Kaggle projects.
+I'm trying to become better not just at building models, but at understanding why they work or fail.
+
+Right now I'm focusing on:
+
+* coming up with better hypotheses before running experiments;
+* understanding missing values instead of filling them automatically;
+* building more reliable validation pipelines;
+* analyzing model errors;
+* improving my feature engineering;
+* debugging both code and ML pipelines;
+* keeping my projects reproducible with Git and GitHub.
+
+I still have a lot to learn, but I try to document what I learn along the way.
+
+---
+
+### 📚 Currently Learning
+
+* Data Science and Machine Learning through Kaggle projects
+* SQL
+* Algorithms and problem solving
+* **Groking Algorithms: Artificial Intelligence**
+
+---
+
+### 📫 Links
 
 * **Kaggle:** [kunkorun](https://www.kaggle.com/kunkorun)
+* **GitHub:** [kunkorun](https://github.com/kunkorun)
