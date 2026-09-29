@@ -9,31 +9,35 @@ Instead of just chasing leaderboard scores, I focus on understanding the data, f
 ### 🛠️ What I work with
 
 **Core & Data Manipulation**
-- Python
-- Pandas / NumPy
+
+* Python
+* pandas / NumPy
 
 **Visualization & EDA**
-- Matplotlib / Seaborn
+
+* Matplotlib / Seaborn
 
 **Machine Learning**
-- Scikit-learn
-- CatBoost
+
+* scikit-learn
+* CatBoost
 
 **Tools & Platforms**
-- Git / GitHub
-- Jupyter Notebook
-- Kaggle
+
+* Git / GitHub
+* Jupyter Notebook
+* Kaggle
 
 ---
 
 ### 🚀 Featured Projects
 
-Here are some of the end-to-end ML pipelines I have built and documented:
+Here are some of the end-to-end ML projects I have built and documented:
 
-- 🚀 **[Spaceship Titanic — CatBoost Solution]** — Binary classification focusing on logical missing value imputation, debugging data types, and gradient boosting
-- 🏠 **[House Prices: Advanced Regression]** — A complete regression pipeline featuring deep EDA, target transformation, and rigorous cross-validation
-- 🚢 **[Titanic Survival Prediction]** — A full supervised learning workflow from thoughtful feature engineering to ensemble model comparison
-- 🔢 **[Digit Recognizer]** — Multiclass image classification using Random Forest, paired with visual error analysis and confusion matrices
+* 🚀 **[Spaceship Titanic — CatBoost Solution]** — Binary classification with context-aware missing-value imputation, data type debugging, feature engineering, and CatBoost
+* 🏠 **[House Prices: Advanced Regression]** — Regression pipeline featuring EDA, target transformation, feature engineering, and cross-validation
+* 🚢 **[Titanic Survival Prediction]** — Supervised learning workflow with feature engineering, model comparison, and validation
+* 🔢 **[Digit Recognizer]** — Multiclass image classification using Random Forest, with visual error analysis and confusion matrices
 
 ---
 
@@ -41,22 +45,16 @@ Here are some of the end-to-end ML pipelines I have built and documented:
 
 As I continue to grow in Data Science, I am actively improving my understanding of:
 
-- Formulating data-driven hypotheses before touching the models
-- Building leakage-free, reproducible validation pipelines
-- Digging into error analysis and residuals to understand model failures
-- Engineering features that capture real-world domain logic rather than just relying on automated tuning
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunkorun&show_icons=true)
+* Formulating data-driven hypotheses before changing the model
+* Building leakage-free and reproducible validation pipelines
+* Analyzing model errors to understand failure patterns
+* Engineering features based on data and domain logic rather than relying only on automated tuning
+* Debugging both code and ML pipelines
 
 ---
 
 ### 📫 Let's Connect
 
-Feel free to explore my repositories, check out my Kaggle notebooks, or reach out if you want to discuss data, ML pipelines, or model debugging!
+Feel free to explore my repositories and Kaggle projects.
 
-- **Kaggle:** [kunkorun](https://www.kaggle.com/kunkorun) 
-
+* **Kaggle:** [kunkorun](https://www.kaggle.com/kunkorun)
