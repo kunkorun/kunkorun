@@ -50,11 +50,7 @@ As I continue to grow in Data Science, I am actively improving my understanding 
 
 ### 📊 GitHub Stats
 
-<!-- You can uncomment these lines and replace 'kunkorun' with your exact GitHub username to show live stats on your profile -->
-<!-- 
-![Kunkorun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunkorun&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunkorun&layout=compact&theme=radical)
--->
+
 
 ---
 
@@ -63,4 +59,4 @@ As I continue to grow in Data Science, I am actively improving my understanding 
 Feel free to explore my repositories, check out my Kaggle notebooks, or reach out if you want to discuss data, ML pipelines, or model debugging!
 
 - **Kaggle:** [kunkorun](https://www.kaggle.com/kunkorun) *(replace with your actual link)*
-- **LinkedIn:** *(add your link here if you have one)*
+
