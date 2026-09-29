@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kunkorun
 
-I am a Data Science practitioner focused on building robust, end-to-end Machine Learning pipelines. I believe the best way to learn is by doing, which is why my GitHub is filled with practical, project-driven explorations of classical ML, ensemble methods, and rigorous data validation.
+Data Science learner building practical Machine Learning projects with Python, pandas, scikit-learn and CatBoost.
 
 Instead of just chasing leaderboard scores, I focus on understanding the data, formulating hypotheses, and building reproducible workflows.
 
