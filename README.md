@@ -50,7 +50,7 @@ As I continue to grow in Data Science, I am actively improving my understanding 
 
 ### 📊 GitHub Stats
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunkorun&show_icons=true)
 
 ---
 
@@ -58,5 +58,5 @@ As I continue to grow in Data Science, I am actively improving my understanding 
 
 Feel free to explore my repositories, check out my Kaggle notebooks, or reach out if you want to discuss data, ML pipelines, or model debugging!
 
-- **Kaggle:** [kunkorun](https://www.kaggle.com/kunkorun) *(replace with your actual link)*
+- **Kaggle:** [kunkorun](https://www.kaggle.com/kunkorun) 
 
