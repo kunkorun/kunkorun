@@ -42,6 +42,8 @@ Here are the projects I have completed so far:
 
 * 🔢 **[Digit Recognizer]** — My first project working with image data. I used Random Forest, cross-validation, hyperparameter tuning, confusion matrices and visual error analysis. **Kaggle Score: 0.96550**
 
+* 🚲 **[Bike Sharing Demand]** — My first project focused on time-dependent data. I worked with temporal features, chronological validation, target transformation, model comparison, hyperparameter tuning and residual analysis. **Kaggle Score: 0.39975**
+
 ---
 
 ### 🎯 What I'm learning now
@@ -55,6 +57,7 @@ Right now I'm focusing on:
 * building more reliable validation pipelines;
 * analyzing model errors;
 * improving my feature engineering;
+* working with time-dependent data;
 * debugging both code and ML pipelines;
 * keeping my projects reproducible with Git and GitHub.
 
